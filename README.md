@@ -2,7 +2,7 @@
 #####
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=24&duration=4500&pause=100&color=919A91&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=70&lines=midnight-the-rock;I+code%2C+and+I+do+not+have+a+clue+what+I+am+doing)](https://git.io/typing-svg)
 #
-### 私のプロフィルようこそ！
+### 僕のプロフィルーようこそ
  Hello there, I'm midnight. I like writting software and being reluctant to show it on a public repository. 
  I don't really do anything remarkable here, I just like doing random stuff now and then, feel free to take a peek at some of my projects
 
